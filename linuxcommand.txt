@@ -1,0 +1,22 @@
+ whoami
+    2  pwd
+    3  yum install tree -y
+    4  tree
+    5  ec2-18-219-252-240.us-east-2.compute.amazonaws.com
+    6  which tree
+    7  rpm -qa | grep tree
+    8  ls
+    9  ls -lrk
+   10  ssh-keygen -t rsa
+   11  cat /root/.ssh/id_rsa.pub
+   12  ssh root@172.31.42.120
+   13  mkdir -p
+   14  mkdir -p /opt/devops/
+   15  pwd
+   16  git init
+   17  cd /opt/devops/
+   18  pwd
+   19  git init
+   20  yum install git -y
+   21  history
+
